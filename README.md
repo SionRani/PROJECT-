@@ -91,3 +91,5 @@ best.pt is present in your working directory.
 Run in an environment where GPU acceleration (optional) is available.
 
 🎉 You're ready to track soccer players like a pro!
+
+Soccer Player Re-Identification using YOLOv5 + Python – detects and tracks players using bounding boxes.
